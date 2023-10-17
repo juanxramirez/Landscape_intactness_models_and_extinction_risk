@@ -1,5 +1,7 @@
 ## Landscape_intactness_models #
 
+<a href="https://zenodo.org/doi/10.5281/zenodo.10011760"><img src="https://zenodo.org/badge/705898232.svg" alt="DOI"></a>
+
 This repository includes data and `R` code to reproduce the analyses shown in the article:
 
 **Integrating discrete and continuum models of landscape intactness best explains global mammal extinction risk**
